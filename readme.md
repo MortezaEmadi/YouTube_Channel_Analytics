@@ -8,11 +8,12 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 
 ## Project Overview
 
-<div style="text-align: center;">
-    <a href=results/project_process_diagram.jpg" target="_blank">
-        <img src="results/project_process_diagram.jpg" alt="PowerBI Dashboard" width="300">
-    </a>
+<div align="center">
+  <a href="results/project_process_diagram.jpg" target="_blank">
+    <img src="results/channels_triple_plot.png" alt="Project Process Diagram" width="450" style="position: relative;">
+  </a>
 </div>
+
 ### Data Collection and Preprocessing
 
 - **Data Sources**: YouTube Data API v3, Social Blade
@@ -40,17 +41,18 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 - Below are some sample visualizations: (Click on images to zoom!)
 An EDA step for some Channels:
   
-<div style="text-align: center;">
-    <a href="results/channels_triple_plot.png" target="_blank">
-        <img src="results/channels_triple_plot.png" alt="EDA step for some Channels" width="300">
-    </a>
+<div align="center">
+  <a href="results/channels_triple_plot.png" target="_blank">
+    <img src="results/channels_triple_plot.png" alt="EDA step for some Channels" width="300" style="position: relative;">
+  </a>
 </div>
+
 PowerBI Dashboard:
 
-<div style="text-align: center;">
-    <a href="results/PowerBI_Dashboard.jpg" target="_blank">
-        <img src="results/PowerBI_Dashboard.jpg" alt="PowerBI Dashboard" width="300">
-    </a>
+<div align="center">
+  <a href="results/PowerBI_Dashboard.jpg" target="_blank">
+    <img src="results/PowerBI_Dashboard.jpg" alt="PowerBI Dashboard" width="300" style="position: relative;">
+  </a>
 </div>
 
 ## Requirements
