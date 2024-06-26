@@ -34,12 +34,23 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 
 - **Power BI Dashboard**: Created an interactive dashboard to present the findings visually.
 - **Plotly Visualizations**: Generated visualizations for exploratory data analysis and model evaluation.
-- Below are some sample visualizations:
-- An EDA step for some Channels:
-<a href="results/channels_triple_plot.png" target="_blank"><img src="results/channels_triple_plot.png" alt="EDA step for some Channels" width="300"></a>
-- PowerBI Dashboard:
-<a href="results/PowerBI_Dashboard.jpg" target="_blank"><img src="results/PowerBI_Dashboard.jpg" alt="PowerBI Dashboard" width="300"></a>
+- Below are some sample visualizations: (Click on images to zoom!)
+An EDA step for some Channels:
+  
+<div align="center">
+  <a href="results/channels_triple_plot.png" target="_blank">
+    <img src="results/channels_triple_plot.png" alt="EDA step for some Channels" width="300" style="position: relative;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/magnifying-glass.png" alt="Magnifier Icon" style="position: absolute; top: 10px; right: 10px; width: 30px; height: 30px;">
+  </a>
+</div>
+PowerBI Dashboard:
 
+<div align="center">
+  <a href="results/PowerBI_Dashboard.jpg" target="_blank">
+    <img src="results/PowerBI_Dashboard.jpg" alt="PowerBI Dashboard" width="300" style="position: relative;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/magnifying-glass.png" alt="Magnifier Icon" style="position: absolute; top: 10px; right: 10px; width: 30px; height: 30px;">
+  </a>
+</div>
 
 ## Requirements
 
@@ -52,7 +63,7 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yt-channel-analysis.git
+   git clone https://github.com/MortezaEmadi/YouTube-Channel-and-Video-Performance-Analysis-using-Google-API-and-Stacking-Ensemble-Classifier.git
    cd yt-channel-analysis
    ```
 
