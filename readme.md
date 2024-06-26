@@ -8,8 +8,11 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 
 ## Project Overview
 
-<a href="results/project_process_diagram.jpg" target="_blank"><img src="results/project_process_diagram.jpg" alt="Project_Process_Diagram" width="300"></a>
-
+<div style="text-align: center;">
+    <a href=results/project_process_diagram.jpg" target="_blank">
+        <img src="results/project_process_diagram.jpg" alt="PowerBI Dashboard" width="300">
+    </a>
+</div>
 ### Data Collection and Preprocessing
 
 - **Data Sources**: YouTube Data API v3, Social Blade
@@ -37,19 +40,17 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 - Below are some sample visualizations: (Click on images to zoom!)
 An EDA step for some Channels:
   
-<div align="center">
-  <a href="results/channels_triple_plot.png" target="_blank">
-    <img src="results/channels_triple_plot.png" alt="EDA step for some Channels" width="300" style="position: relative;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/magnifying-glass.png" alt="Magnifier Icon" style="position: absolute; top: 10px; right: 10px; width: 30px; height: 30px;">
-  </a>
+<div style="text-align: center;">
+    <a href="results/channels_triple_plot.png" target="_blank">
+        <img src="results/channels_triple_plot.png" alt="EDA step for some Channels" width="300">
+    </a>
 </div>
 PowerBI Dashboard:
 
-<div align="center">
-  <a href="results/PowerBI_Dashboard.jpg" target="_blank">
-    <img src="results/PowerBI_Dashboard.jpg" alt="PowerBI Dashboard" width="300" style="position: relative;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/magnifying-glass.png" alt="Magnifier Icon" style="position: absolute; top: 10px; right: 10px; width: 30px; height: 30px;">
-  </a>
+<div style="text-align: center;">
+    <a href="results/PowerBI_Dashboard.jpg" target="_blank">
+        <img src="results/PowerBI_Dashboard.jpg" alt="PowerBI Dashboard" width="300">
+    </a>
 </div>
 
 ## Requirements
