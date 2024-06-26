@@ -10,7 +10,7 @@ Using the limited capabilities of the Google YouTube Data API v3, this project p
 
 <div align="center">
   <a href="results/project_process_diagram.jpg" target="_blank">
-    <img src="results/channels_triple_plot.png" alt="Project Process Diagram" width="450" style="position: relative;">
+    <img src="results/project_process_diagram.jpg" alt="Project Process Diagram" width="520" style="position: relative;">
   </a>
 </div>
 
